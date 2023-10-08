@@ -1,0 +1,14 @@
+c:\Users\matth\OneDrive\Documents\Earthworm Project 210\JournalProject\bin\Debug\net7.0\JournalProject.exe
+c:\Users\matth\OneDrive\Documents\Earthworm Project 210\JournalProject\bin\Debug\net7.0\JournalProject.deps.json
+c:\Users\matth\OneDrive\Documents\Earthworm Project 210\JournalProject\bin\Debug\net7.0\JournalProject.runtimeconfig.json
+c:\Users\matth\OneDrive\Documents\Earthworm Project 210\JournalProject\bin\Debug\net7.0\JournalProject.dll
+c:\Users\matth\OneDrive\Documents\Earthworm Project 210\JournalProject\bin\Debug\net7.0\JournalProject.pdb
+c:\Users\matth\OneDrive\Documents\Earthworm Project 210\JournalProject\obj\Debug\net7.0\JournalProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\matth\OneDrive\Documents\Earthworm Project 210\JournalProject\obj\Debug\net7.0\JournalProject.AssemblyInfoInputs.cache
+c:\Users\matth\OneDrive\Documents\Earthworm Project 210\JournalProject\obj\Debug\net7.0\JournalProject.AssemblyInfo.cs
+c:\Users\matth\OneDrive\Documents\Earthworm Project 210\JournalProject\obj\Debug\net7.0\JournalProject.csproj.CoreCompileInputs.cache
+c:\Users\matth\OneDrive\Documents\Earthworm Project 210\JournalProject\obj\Debug\net7.0\JournalProject.dll
+c:\Users\matth\OneDrive\Documents\Earthworm Project 210\JournalProject\obj\Debug\net7.0\refint\JournalProject.dll
+c:\Users\matth\OneDrive\Documents\Earthworm Project 210\JournalProject\obj\Debug\net7.0\JournalProject.pdb
+c:\Users\matth\OneDrive\Documents\Earthworm Project 210\JournalProject\obj\Debug\net7.0\JournalProject.genruntimeconfig.cache
+c:\Users\matth\OneDrive\Documents\Earthworm Project 210\JournalProject\obj\Debug\net7.0\ref\JournalProject.dll
