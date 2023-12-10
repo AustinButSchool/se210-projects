@@ -1,0 +1,14 @@
+/Users/jones/Desktop/project/cse210-student-template/final/FinalProject/bin/Debug/net7.0/FinalProject
+/Users/jones/Desktop/project/cse210-student-template/final/FinalProject/bin/Debug/net7.0/FinalProject.deps.json
+/Users/jones/Desktop/project/cse210-student-template/final/FinalProject/bin/Debug/net7.0/FinalProject.runtimeconfig.json
+/Users/jones/Desktop/project/cse210-student-template/final/FinalProject/bin/Debug/net7.0/FinalProject.dll
+/Users/jones/Desktop/project/cse210-student-template/final/FinalProject/bin/Debug/net7.0/FinalProject.pdb
+/Users/jones/Desktop/project/cse210-student-template/final/FinalProject/obj/Debug/net7.0/FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jones/Desktop/project/cse210-student-template/final/FinalProject/obj/Debug/net7.0/FinalProject.AssemblyInfoInputs.cache
+/Users/jones/Desktop/project/cse210-student-template/final/FinalProject/obj/Debug/net7.0/FinalProject.AssemblyInfo.cs
+/Users/jones/Desktop/project/cse210-student-template/final/FinalProject/obj/Debug/net7.0/FinalProject.csproj.CoreCompileInputs.cache
+/Users/jones/Desktop/project/cse210-student-template/final/FinalProject/obj/Debug/net7.0/FinalProject.dll
+/Users/jones/Desktop/project/cse210-student-template/final/FinalProject/obj/Debug/net7.0/refint/FinalProject.dll
+/Users/jones/Desktop/project/cse210-student-template/final/FinalProject/obj/Debug/net7.0/FinalProject.pdb
+/Users/jones/Desktop/project/cse210-student-template/final/FinalProject/obj/Debug/net7.0/FinalProject.genruntimeconfig.cache
+/Users/jones/Desktop/project/cse210-student-template/final/FinalProject/obj/Debug/net7.0/ref/FinalProject.dll
